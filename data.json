@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Conakry",
+    "studentNumber": 99,
+    "email": "conakry@test.com",
+    "courseList": [
+      "MongoDB",
+      "Math",
+      "Spring boot"
+    ],
+    "gpa": 3.58
+  },
+  {
+    "name": "Beyla",
+    "studentNumber": 28,
+    "email": "beyla@test.com",
+    "courseList": [
+      "English",
+      "Science","Tensorflow"
+    ],
+    "gpa": 4.48
+  },
+  {
+    "name": "Dubreka",
+    "studentNumber": 45,
+    "email": "dubreka@test.com",
+    "courseList": [
+      "Art",
+      "Science","Docker"
+    ],
+    "gpa": 3.28
+  },
+  {
+    "name": "Macenta",
+    "studentNumber": 5,
+    "email": "macenta@test.com",
+    "courseList": [
+      "Spring",
+      "Big DATA","Docker"
+    ],
+    "gpa": 1.28
+  },
+  {
+    "name": "Boké",
+    "studentNumber": 4,
+    "email": "boke@test.com",
+    "courseList": [
+      "Aws",
+      "PHP","Docker"
+    ],
+    "gpa": 3.28
+  },
+  {
+    "name": "Coyah",
+    "studentNumber": 15,
+    "email": "coyah@test.com",
+    "courseList": [
+      "C++",
+      "React Native","Docker"
+    ],
+    "gpa": 2.28
+  }
+]
